@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Sai Chakradhar Kasarla
 
-<!--
-**SaiChakradhar-k/SaiChakradhar-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DCS Application Engineer & Data Analyst with experience in chemical plant automation, financial data processing, and Japanese client communication.  
+Skilled in DCS design, control logic, SQL, data validation, and cross‑functional collaboration.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Skills & Technologies
+
+- **DCS Systems:** CENTUM VP (R5/R6), CS3000, CENTUM XL  
+- **Control Engineering:** Sequence Control, SEBOL, Logic Design, HMI Graphics  
+- **Data Skills:** SQL (Intermediate), Data Validation, Data Standardization  
+- **Programming:** Visual Basic Studio, C Language  
+- **Operating Systems:** Windows XP, Vista, 7, 8, 10  
+- **Office Tools:** MS Word, Excel, PowerPoint, Visio  
+- **Financial Tools:** EIKON, LIPPER, ICIS  
+- **Languages:** English, Japanese (JLPT N3中)
+
+---
+
+## 🏢 Work Experience
+
+### **DAICEL Corporation — DCS Engineering & Data Analysis**
+- Understood customer requirements and supported DCS specification creation  
+- Analyzed chemical plant processes, filtration, and centrifugal systems  
+- Created functional specifications and I/O lists  
+- Designed sequence logic, flowcharts, and control logic  
+- Participated in FAT and verified system behavior  
+- Used SQL for data extraction, I/O checks, and engineering validation  
+
+---
+
+### **Refinitiv (London Stock Exchange Group) — Data Analyst**
+- Collected and updated investment firm and professional data  
+- Extracted and standardized financial data from corporate reports  
+- Performed quality checks and audits before product release  
+- Monitored corporate actions in the Japanese market  
+- Used EIKON, LIPPER, ICIS for data processing  
+- Proposed automation ideas and supported testing  
+
+---
+
+### **Yokogawa India Ltd — DCS Application Engineer**
+- Designed and developed DCS applications for Japanese clients  
+- Worked with CENTUM VP, CS3000, and CENTUM XL  
+- Created control logic, sequence tables, SEBOL logic, and HMI graphics  
+- Conducted functional, integration, and system testing  
+- Supported FAT, UAT, and site startup  
+- Read Japanese specifications and communicated with Japanese customers  
+- Frequent business travel to Japan  
+
+---
+
+## 📊 GitHub Stats
+
+![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saichakradhar-k&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saichakradhar-k&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- **Email:** Saichakradhar9119@gmail.com  
+- **Location:** Himeji, Hyogo, Japan
+
